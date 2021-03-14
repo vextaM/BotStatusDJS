@@ -1,6 +1,6 @@
 token = 'TOKEN DU VOTRE BOT DISCORD'
-guild = 'IDENTIFIANT DU SERVEUR'
-channel = 'IDENTIFIANT DU SALON'
+guild = '750755489121304728'
+channel = '816044676327014430'
 
 [status]
     [status.first]
